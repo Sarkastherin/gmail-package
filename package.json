@@ -1,6 +1,6 @@
 {
   "name": "gmail-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Este paquete permite interactuar con Gmail Sheets usando la API de Gmail.",
   "main": "src/index.js",
   "scripts": {
