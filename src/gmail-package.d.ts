@@ -1,3 +1,5 @@
-declare module "gmail-package" {
-  export default Email
+declare class Email {
+    static getEmail(): Promise<string | undefined>;
 }
+
+export default Email;
